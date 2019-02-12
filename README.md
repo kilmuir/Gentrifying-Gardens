@@ -17,7 +17,6 @@ https://doi.org/10.2747/0272-3638.30.7.694
 
 <a href = 'https://kilmuir.github.io/Gentrifying-Gardens/CG2' title = "Gardens of Gentrification"
   target = "_blank"> See here for the final map</a>
-https://kilmuir.github.io/Gentrifying-Gardens/CG2
       
 
-<img src=https://kilmuir.github.io/Gentrifying-Gardens/Screenshot.png>
+<img src = 'https://kilmuir.github.io/Gentrifying-Gardens/Screenshot.png'>
