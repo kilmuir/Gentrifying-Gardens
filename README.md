@@ -15,8 +15,11 @@
 Quastel, N. (2009). Political Ecologies of Gentrification. _Urban Geography, 30_(7), 694-725. 
 https://doi.org/10.2747/0272-3638.30.7.694 
 
-![https://kilmuir.github.io/Gentrifying-Gardens/Screen Shot 2019-02-11 at 7.10.21 PM.png]
+![https://kilmuir.github.io/Gentrifying-Gardens/Screen Shot 2019-02-11 at 7.10.21 PM.png]src
 
 https://kilmuir.github.io/Gentrifying-Gardens/CG2
+
+Gentrifying-Gardens/Screen Shot 2019-02-11 at 7.10.21 PM.png
+      
 
 
